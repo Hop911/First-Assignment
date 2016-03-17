@@ -21,6 +21,11 @@
 **2009-2011 Ceramic Sanitation Engineer** *.... restaurant, luy........*
 
 ##Projects
+**Assignment 2 links**
+
+[Assignment 2 HTML](http://hop911.github.io/Second-Assignment/) There was a problem converting the tex file into HTML, please also have a look at the regular tex file which can be found in the GH pages of the [following repository](https://github.com/Hop911/Second-Assignment/tree/gh-pages).
+
+[Assignment 2 presentation](http://hop911.github.io/Second-Assignment-Presentation/) There were troubles converting it into a presentation.
 
 ##Computer Proficiency
 **Language:Python**
