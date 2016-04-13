@@ -27,6 +27,13 @@
 
 [Assignment 2 presentation](http://hop911.github.io/Second-Assignment-Presentation/) There were troubles converting it into a presentation.
 
+**Assignment 3 links**
+
+[Assignment 3 python notebook](https://github.com/Hop911/Third-Assignment/blob/master/Assignment%20III.ipynb)
+
+[link to repository that includes data file](https://github.com/Hop911/Third-Assignment)
+
+
 ##Computer Proficiency
 **Language:Python**
 
